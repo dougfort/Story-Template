@@ -1,20 +1,25 @@
 # Companion File – [Story Title]
 
 ## Summary
+
 [One-paragraph premise and tone statement]
 
 ## Main Characters
+
 - [Character 1] – short descriptor
 - [Character 2] – short descriptor
 
 ## Key Locations
+
 - [Location 1] – link to research doc
 - [Location 2] – link to research doc
 
 ## Timeline
+
 [Brief bullet outline of story flow]
 
 ## Links
+
 - Characters:
   - [Character 1](Characters/Character1.md)
   - [Character 2](Characters/Character2.md)
